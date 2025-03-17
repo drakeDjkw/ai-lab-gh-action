@@ -1,4 +1,3 @@
-# ai-lab-gh-action
 # AI Lab GitHub Action
 
 This repository contains the code and configuration for the AI Lab project, which utilizes GitHub Actions for continuous integration and deployment, and GitHub Pages for hosting the live website.
